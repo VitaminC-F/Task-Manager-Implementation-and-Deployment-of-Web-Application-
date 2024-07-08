@@ -1,3 +1,8 @@
+Flavian Navin Wenceslas - 1221304026
+Maevinarsh a/l Loganathan - 1211103476
+Sri Raam a/l Gunalingam - 1211102757
+
+
 1. Database Setup:
    - Create a database with the name defined in your settings.py.
    - For example, if your database name is "mytasksdb," make sure it matches the name in your settings.
